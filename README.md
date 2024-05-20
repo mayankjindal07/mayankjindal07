@@ -1,16 +1,24 @@
-### Hi there 👋
+## Hi, I'm Mayank Jindal!
 
-<!--
-**mayankjindal07/mayankjindal07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a 2024 graduate actively searching for job opportunities in the field of software development.
 
-Here are some ideas to get you started:
+💻 **Technical Skills:**
+- Programming Languages: C++, Java
+- Web Technologies: HTML, CSS, JavaScript
+- Databases: SQL
+- Frameworks: REST API using Spring Boot, Android Development with Java
+- Data Structures and Algorithms (DSA)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 **Interests:**
+- Software Development
+- Android Development
+- Frontend Web Development
+
+🏆 **Achievements:**
+- Published 3 research papers in SCOPUS-indexed journals.
+- Shortlisted for Smart India Hackathon (SIH) 2022, a national-level competition showcasing problem-solving skills and innovation.
+- Secured second place in the Module Hackathon 2020, demonstrating strong problem-solving abilities and collaborative teamwork.
+
+🌐 **Connect with Me:**
+- [LinkedIn](www.linkedin.com/in/mayank-jindal-b564591b1)
+- [Email](mailto:Mayankjindal40@gmail.com)
